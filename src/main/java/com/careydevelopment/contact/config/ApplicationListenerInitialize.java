@@ -14,8 +14,8 @@ public class ApplicationListenerInitialize implements ApplicationListener<Contex
 	
     private static final Logger logger = LoggerFactory.getLogger(ApplicationListenerInitialize.class);
  
-    @Autowired
-    ContactRepository contactRepository;
+//    @Autowired
+//    ContactRepository contactRepository;
     
 //    @Autowired
 //    CountryRepository countryRepository;
